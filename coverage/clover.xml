@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1681093190971" clover="3.2.0">
+  <project timestamp="1681093190972" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6" elements="11" coveredelements="11" complexity="0" loc="5" ncloc="5" packages="1" files="2" classes="2"/>
+    <file name="App.js" path="C:\Users\14077\Documents\counter-assignment-clone\counter-assignment\src\components\App.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="Counter.js" path="C:\Users\14077\Documents\counter-assignment-clone\counter-assignment\src\components\Counter.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="11" count="7" type="stmt"/>
+    </file>
+  </project>
+</coverage>
